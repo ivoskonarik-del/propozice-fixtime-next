@@ -1,0 +1,206 @@
+{
+ "karta-nalepeni-ochranne-folie": {
+  "jpg": "/img/karta-nalepeni-ochranne-folie.jpg",
+  "webp": "/img/karta-nalepeni-ochranne-folie.webp",
+  "w": 591,
+  "h": 466
+ },
+ "karta-bocni-tlacitka": {
+  "jpg": "/img/karta-bocni-tlacitka.jpg",
+  "webp": "/img/karta-bocni-tlacitka.webp",
+  "w": 591,
+  "h": 466
+ },
+ "karta-tlacitko-zapnuti": {
+  "jpg": "/img/karta-tlacitko-zapnuti.jpg",
+  "webp": "/img/karta-tlacitko-zapnuti.webp",
+  "w": 591,
+  "h": 466
+ },
+ "karta-mikrofon": {
+  "jpg": "/img/karta-mikrofon.jpg",
+  "webp": "/img/karta-mikrofon.webp",
+  "w": 591,
+  "h": 466
+ },
+ "karta-nabijeci-konektor": {
+  "jpg": "/img/karta-nabijeci-konektor.jpg",
+  "webp": "/img/karta-nabijeci-konektor.webp",
+  "w": 591,
+  "h": 466
+ },
+ "karta-predni-kamera": {
+  "jpg": "/img/karta-predni-kamera.jpg",
+  "webp": "/img/karta-predni-kamera.webp",
+  "w": 591,
+  "h": 466
+ },
+ "karta-senzor-priblizeni": {
+  "jpg": "/img/karta-senzor-priblizeni.jpg",
+  "webp": "/img/karta-senzor-priblizeni.webp",
+  "w": 591,
+  "h": 466
+ },
+ "karta-slot-sim": {
+  "jpg": "/img/karta-slot-sim.jpg",
+  "webp": "/img/karta-slot-sim.webp",
+  "w": 591,
+  "h": 466
+ },
+ "karta-sluchatko": {
+  "jpg": "/img/karta-sluchatko.jpg",
+  "webp": "/img/karta-sluchatko.webp",
+  "w": 591,
+  "h": 466
+ },
+ "karta-zadni-kryt": {
+  "jpg": "/img/karta-zadni-kryt.jpg",
+  "webp": "/img/karta-zadni-kryt.webp",
+  "w": 591,
+  "h": 466
+ },
+ "karta-prenos-dat": {
+  "jpg": "/img/karta-prenos-dat.jpg",
+  "webp": "/img/karta-prenos-dat.webp",
+  "w": 591,
+  "h": 466
+ },
+ "karta-rozbite-sklo": {
+  "jpg": "/img/karta-rozbite-sklo.jpg",
+  "webp": "/img/karta-rozbite-sklo.webp",
+  "w": 591,
+  "h": 466
+ },
+ "ikona-zapnuti": {
+  "jpg": "/img/ikona-zapnuti.jpg",
+  "webp": "/img/ikona-zapnuti.webp",
+  "w": 900,
+  "h": 900
+ },
+ "ikona-mikrofon": {
+  "jpg": "/img/ikona-mikrofon.jpg",
+  "webp": "/img/ikona-mikrofon.webp",
+  "w": 900,
+  "h": 900
+ },
+ "ikona-kamera": {
+  "jpg": "/img/ikona-kamera.jpg",
+  "webp": "/img/ikona-kamera.webp",
+  "w": 900,
+  "h": 900
+ },
+ "ikona-tlacitka": {
+  "jpg": "/img/ikona-tlacitka.jpg",
+  "webp": "/img/ikona-tlacitka.webp",
+  "w": 900,
+  "h": 900
+ },
+ "ikona-deska": {
+  "jpg": "/img/ikona-deska.jpg",
+  "webp": "/img/ikona-deska.webp",
+  "w": 900,
+  "h": 900
+ },
+ "ikona-baterie": {
+  "jpg": "/img/ikona-baterie.jpg",
+  "webp": "/img/ikona-baterie.webp",
+  "w": 900,
+  "h": 900
+ },
+ "z-xperia-10-plus": {
+  "jpg": "/img/z-xperia-10-plus.jpg",
+  "webp": "/img/z-xperia-10-plus.webp",
+  "w": 689,
+  "h": 368
+ },
+ "z-iphone-16-pro-max": {
+  "jpg": "/img/z-iphone-16-pro-max.jpg",
+  "webp": "/img/z-iphone-16-pro-max.webp",
+  "w": 1152,
+  "h": 1152
+ },
+ "z-galaxy-s24-ultra": {
+  "jpg": "/img/z-galaxy-s24-ultra.jpg",
+  "webp": "/img/z-galaxy-s24-ultra.webp",
+  "w": 1400,
+  "h": 788
+ },
+ "z-poco-f5-pro": {
+  "jpg": "/img/z-poco-f5-pro.jpg",
+  "webp": "/img/z-poco-f5-pro.webp",
+  "w": 1400,
+  "h": 1400
+ },
+ "z-huawei-p40-pro": {
+  "jpg": "/img/z-huawei-p40-pro.jpg",
+  "webp": "/img/z-huawei-p40-pro.webp",
+  "w": 1400,
+  "h": 934
+ },
+ "z-pixel-8": {
+  "jpg": "/img/z-pixel-8.jpg",
+  "webp": "/img/z-pixel-8.webp",
+  "w": 1400,
+  "h": 1047
+ },
+ "z-pixel-8-pro": {
+  "jpg": "/img/z-pixel-8-pro.jpg",
+  "webp": "/img/z-pixel-8-pro.webp",
+  "w": 1200,
+  "h": 765
+ },
+ "z-iphone-15-pro-max": {
+  "jpg": "/img/z-iphone-15-pro-max.jpg",
+  "webp": "/img/z-iphone-15-pro-max.webp",
+  "w": 500,
+  "h": 500
+ },
+ "z-galaxy-s24-plus": {
+  "jpg": "/img/z-galaxy-s24-plus.jpg",
+  "webp": "/img/z-galaxy-s24-plus.webp",
+  "w": 600,
+  "h": 600
+ },
+ "z-apple-watch": {
+  "jpg": "/img/z-apple-watch.jpg",
+  "webp": "/img/z-apple-watch.webp",
+  "w": 1000,
+  "h": 667
+ },
+ "z-face-id": {
+  "jpg": "/img/z-face-id.jpg",
+  "webp": "/img/z-face-id.webp",
+  "w": 489,
+  "h": 998
+ },
+ "z-onenplus-nord": {
+  "jpg": "/img/z-onenplus-nord.jpg",
+  "webp": "/img/z-onenplus-nord.webp",
+  "w": 1024,
+  "h": 1024
+ },
+ "z-android-update": {
+  "jpg": "/img/z-android-update.jpg",
+  "webp": "/img/z-android-update.webp",
+  "w": 1400,
+  "h": 921
+ },
+ "z-tvrzene-sklo": {
+  "jpg": "/img/z-tvrzene-sklo.jpg",
+  "webp": "/img/z-tvrzene-sklo.webp",
+  "w": 630,
+  "h": 630
+ },
+ "z-nabijeni": {
+  "jpg": "/img/z-nabijeni.jpg",
+  "webp": "/img/z-nabijeni.webp",
+  "w": 728,
+  "h": 314
+ },
+ "z-bezdratove-nabijeni": {
+  "jpg": "/img/z-bezdratove-nabijeni.jpg",
+  "webp": "/img/z-bezdratove-nabijeni.webp",
+  "w": 1400,
+  "h": 661
+ }
+}
